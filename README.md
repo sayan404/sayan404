@@ -41,11 +41,19 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a><a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></p></div>
-<h1 align ="left"> Github Stats : </h1>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sayan404&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan404&hide_border=true&layout=compact" align="center" /></div>  
-<br/>  
+<h1 align ="left"> Github Stats : </h1>   
+<div align="center" >
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan404&show_icons=true&theme=dark&locale=en&layout=compact" alt="sayan404" /></p>
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sayan404&show_icons=true&theme=dark&locale=en" alt="sayan404" /></p>
+
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sayan404&theme=dark" alt="sayan404" /></p>
+</div>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sayan404&&style=flat-square" align="center" />
-</div> 
+</div>
+<br>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sayan404&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" align="center" style="width: 100%" >
+ </div>
