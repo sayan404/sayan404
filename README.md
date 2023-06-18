@@ -53,7 +53,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sayan404&&style=flat-square" align="center" />
 </div>
-<br>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sayan404&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" align="center" style="width: 100%" >
- </div>
