@@ -17,9 +17,9 @@
 - 📭 Reach me at : **sayanmajumder0002@gmail.com**
 <div align="left">
 <h1>Connect with Me :</h1>
-<a href="https://twitter.com/sayma404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayma404" height="30" width="40" /></a>
-<a href="https://instagram.com/s_arkoyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_arkoyan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sayan404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sayan404" height="30" width="40" /></a>
+<a href="https://twitter.com/sayma404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_sayan404_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayan404/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Linkedin" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/sayan404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sayan404" height="30" width="40" /></a>
 </div>
 
