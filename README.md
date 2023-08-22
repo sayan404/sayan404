@@ -2,7 +2,7 @@
 <img src="https://bravo68web.me/images/header_.png" align="center" style="width: 100%" />
 </div>  
 <br>
-<div align="center"><h1>Hey👋 , I'm Sayan , a Passionate Developer from India 👨‍</h1></div> 
+<div align="center"><h1>Hey👋 , I'm Sayan , a  Full Stack Developer from India 👨‍</h1></div> 
 <br>
 <div align="center">
 <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" align="center" style="width: 100%" />
