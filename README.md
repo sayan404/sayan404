@@ -10,8 +10,8 @@
 <br>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sayan404&theme=discord&column=3&row=2" alt="sayan404" /> </p>
-
-- 🌱 I’m currently learning **React**
+- 🚀 I’m currently a **Full Stack** developer
+- 🌱 I’m currently learning **Docker**
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - ⚡ Fun fact: I am also into CP 😋  
 - 📭 Reach me at : **sayanmajumder0002@gmail.com**
