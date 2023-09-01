@@ -18,8 +18,8 @@
 - 📭 Reach me at : **sayanmajumder0002@gmail.com**
 <div align="left">
 <h1>Connect with Me :</h1>
-<a href="https://twitter.com/sayma404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_sayan404_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://twitter.com/sayma404" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_sayan404_/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/704/270/png-transparent-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta-mobile-phones-thumbnail.png" alt="Instagram" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/sayan404/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Linkedin" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/sayan404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sayan404" height="30" width="40" /></a>
 </div>
