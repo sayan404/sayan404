@@ -11,10 +11,10 @@
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sayan404&theme=discord&column=3&row=2" alt="sayan404" /> </p>
 
-- 🚀 I’m currently a **Full Stack** developer
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- ⚡ Fun fact: I am also into CP 😋  
-- 📭 Reach me at : **sayanmajumder0002@gmail.com**
+🚀 I’m currently a **Full Stack** developer
+❓ Ask me about anything related to MERN stack and related technologies  
+⚡ Fun fact: I am also into CP 😋  
+📭 Reach me at : **sayanmajumder0002@gmail.com**
 <div align="left">
 <h1>Connect with Me :</h1>
 <a href="https://twitter.com/sayma404" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="Twitter" height="30" width="40" /></a>
