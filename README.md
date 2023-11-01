@@ -5,6 +5,10 @@
 <div align="center"><h1>Hey👋 , I'm Sayan , a  Full Stack Developer from India 👨‍</h1></div> 
 <br>
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=sayan404&&style=flat-square" align="center"  height="40" width="250"  />
+</div>
+<br>
+<div align="center">
 <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" align="center" style="width: 100%" />
 </div>  
 <br>
@@ -37,7 +41,4 @@
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sayan404&theme=dark" alt="sayan404" /></p>
 </div>
-<br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sayan404&&style=flat-square" align="center" />
-</div>
+
