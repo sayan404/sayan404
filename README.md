@@ -5,7 +5,7 @@
 <div align="center"><h1>Hey👋 , I'm Sayan , a  Full Stack Developer from India 👨‍</h1></div> 
 <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sayan404&&style=flat-square" align="center"  height="40" width="250"  />
+<img src="https://komarev.com/ghpvc/?username=sayan404&&style=flat-square" align="center"  height="30" width="200"  />
 </div>
 <br>
 <div align="center">
