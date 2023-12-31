@@ -36,9 +36,7 @@
 <h1 align ="left"> Github Stats : </h1>   
 <div align="center" >
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan404&show_icons=true&theme=dark&locale=en&layout=compact" alt="sayan404" /></p>
-
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sayan404&show_icons=true&theme=dark&locale=en" alt="sayan404" /></p>
-
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sayan404&theme=dark" alt="sayan404" /></p>
 </div>
 
