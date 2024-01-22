@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D16AQE05nEf3gCsfQ/profile-displaybackgroundimage-shrink_350_1400/0/1694086298200?e=1705536000&v=beta&t=ZuKCan6Ea-Ta2TTZyKmDZRnIei9BbEtz9rQQSJwKi90" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D4D16AQE05nEf3gCsfQ/profile-displaybackgroundimage-shrink_350_1400/0/1694086298200?e=1711584000&v=beta&t=NJGtQoo00Zawkpbu6mFWKU5aE4mBQadI3L1eczJOrcw" align="center" style="width: 100%" />
 </div>  
 <br>
 <div align="center"><h1>Hey👋 , I'm Sayan , a  Full Stack Developer from India 👨‍</h1></div> 
