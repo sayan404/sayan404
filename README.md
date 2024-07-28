@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D16AQE05nEf3gCsfQ/profile-displaybackgroundimage-shrink_350_1400/0/1694086298200?e=1718236800&v=beta&t=1g-nsm9LPNHRBmC4EWrin1Yj-N8AdddIORvV2kzbtL0" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/9332fa96-9623-4c06-b858-6a6c59cc2044" align="center" style="width: 100%" />
 </div>  
 <br>
 <div align="center"><h1>Hey👋 , I'm Sayan , a  Full Stack Developer from India 👨‍</h1></div> 
